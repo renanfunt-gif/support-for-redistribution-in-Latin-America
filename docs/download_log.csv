@@ -1,0 +1,3 @@
+asset_type,source_url,dest_file,status,message,timestamp
+wave_data,https://www.latinobarometro.org/agregados,,page_error,Tunnel connection failed: 403 Forbidden,2026-03-12T20:19:13.850748
+dictionary_or_metadata,https://www.latinobarometro.org/serie-temporal,,page_error,Tunnel connection failed: 403 Forbidden,2026-03-12T20:19:13.850748
